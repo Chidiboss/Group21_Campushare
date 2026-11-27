@@ -5,7 +5,7 @@ A campus-only student marketplace to buy, sell or give away pre-owned items.
 ## Problem
 Students end up with items they don't need (shoes that don't fit, old textbooks),
 and there's no dedicated campus-only place to pass them on. Wrong size or fit is
-the top reason for online returns (44% in the Shorr survey).
+the top reason for online returns based on the high percentage 44% in the Shorr survey.
 
 ## Features
 - Registration and login with campus email
